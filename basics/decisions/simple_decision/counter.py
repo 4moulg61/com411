@@ -2,6 +2,7 @@
 print("Please enter the first whole number")
 first_number = int(input())
 print("Please enter the second whole number")
+<<<<<<< HEAD
 second_number = int(input())
 print("Please enter the third whole number")
 third_number = int(input())
@@ -26,3 +27,8 @@ else:
 
 print("There are {} odd numbers and {} even numbers!" .format(odds, evens))
 
+=======
+seond_number = int(input())
+print("Please enter the third whole number")
+third_number = int(input())
+>>>>>>> 4eb08f8cebd15120f9b12cd103c7c96d47e89ea6
